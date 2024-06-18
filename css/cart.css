@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    font-size: 62.5%;
+}
+
+body{
+    background-color:purple;
+}
+
+h1{
+    font-size:5rem;
+    font-family:sans-serif;
+}
