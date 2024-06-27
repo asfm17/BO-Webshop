@@ -257,8 +257,8 @@ h3{
     height:47rem;
     width:20rem;
     margin-top:4rem;
+    border-radius:0.5rem;
 }
-
 
 .article1 > h1{
     font-family:sans-serif;
